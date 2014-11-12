@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="header">
+<h1>What's Up NY!</h1>
+</div>
+
+<div id="searchwrap">
+    <li id="Search">
+        <form id="search-form" 
+	< form id="name="search"
+	action="/products" method="get">
+            <input id="search-input" name="search" type="text">
+        </form>
+    </li>
+</div>
+      <ul>
+        <a href="#">Museums</a></li>
+      </ul>
+      <ul>
+       <a href="#">Parks</a></li>
+      </ul>
+      <ul>
+      <a href="#">Theaters</a></li>
+      </ul>
+      <ul>
+        <a href="#">Subway Stations</a></li>
+      </ul>
+       <ul>
+        <a href="#">Wi-Fi</a></li>
+      </ul>
+  
+</li>
+
+</div>
+
+<div id="footer">
+Copyright © WhatsupNY.com
+</div>
+
+
+</body>
+</html>
